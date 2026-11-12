@@ -1,0 +1,8 @@
+
+# Ignore compiled Assembly files
+*.o
+*.obj
+*.exe
+
+# Ignore the Linux executable
+/caesar_cipher
